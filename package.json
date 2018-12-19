@@ -1,0 +1,13 @@
+{
+  "name": "save-the-dino",
+  "version": "1.0.0",
+  "description": "save him",
+  "main": "index.js",
+  "repository": "git@github.com:dinhnv/save-the-dino.git",
+  "author": "dinhnv <dinhnv.mr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ffmpeg-static": "^2.4.0",
+    "opencv4nodejs": "^4.12.0"
+  }
+}
